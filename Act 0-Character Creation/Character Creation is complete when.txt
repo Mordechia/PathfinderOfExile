@@ -1,0 +1,15 @@
+Character creation is completed when:
+
+1. Custom backgrounds mimicing the 7 starting characters and their reasons for exile, ability score + free boost, skill + skill feat and lore.
+
+2. Information about ancestries (everyone is human in the setting, but probably allow all or most ancestry options as far as mechanics go)
+
+3. Uncommon class choices : Discussion/decision about Inventor and Gunslinger. Currently leaning towards gunslinger banned as guns are not in the setting, and inventor allowed between ancient constructs to skitterbots being a part of the setting
+
+4.  Languages: Either decide to ignore this completely / give some mechanical benefit to those who would have more languages for deciphering ancient writing / give languages, and maybe cost more for more obscure languages for, languages of karui, eternal empire, ancient vaal?, common, maraketh?
+
+Nice to have:
+
+1. A couple paragraphs to pages of setting information for players similar to a player's guide for adventure paths. The player's characters are going to be dumped in an unknown continent, and details about it from the outside are limited so history etc will be found during play and knowledge checks.
+
+2. Character motivations : Help give reasons for why the character(s) are progressing (as well as progressing together) through the story, and not just settling down once the party reaches the encampment in act 2. Revenge on the theocracy of Oriath for their exile, exploration of this mostly unknown continent, looking for power/knowledge are some examples
