@@ -1,0 +1,32 @@
+How to build an encounter:
+
+1. Determine xp budget/role of the encounter using this guide. https://2e.aonprd.com/Rules.aspx?ID=497
+
+2. Determine monsters up to the xp budget that will be used, either reuse previously created monsters or create new ones. Environment/NPC allies/tactics may make the fight easier or more difficult than expected, use judgment on how much effective + or – xp this might make the encounter.
+
+3. Determine tactics of monsters (if they aren't mindless), determine what might make them surrender/retreat to another room or if they will fight to the death.
+
+4. Give brief 2 – 4 sentences of what the GM would read/paraphrase for what the PCs see of the area/enemies
+
+5. Potentially determine loot if you are organizing the act, if not give loot recommendations based on how much xp budget % of a level the encounter is. 
+https://2e.aonprd.com/Rules.aspx?ID=581
+
+How to write up the encounter:
+
+(Location, Difficulty, expected level)
+DINING HALL Moderate-Severe 5
+(Description)
+'Rounded stairs lead down into this flooded room. Long tables and chairs, the remains of a once glorious dining hall, drift as flotsam in the water. The top of a mostly submerged doorway can be seen on the eastern wall and a massive hole gapes in the northern one.'
+(Enemies and information on the enemies
+Creatures: Two giant water cobras lurk amid the floating debris in the room 
+(Tactics)
+Tactics: DC 20 nature for command animal to let one person pass, DC 22 for the party. Will fight until 1 remains at 20 or fewer hp then will flee.
+(Creatures stats, environment reasons for difficulty)
+Water Cobra(2) CREATURE 5 Variant emperor cobra 
++ difficulty water difficult terrain that does not impede the foe
+
+Nice to have:
+
+1. Give encounter design for 5 players, whether adding elite template, an additional weaker enemy, or potentially splitting a strong enemy into 2 weaker versions
+
+2. Check that encounter is balanced for 3 players, but the players are 1 level higher than recommended for the current area.(Math usually works out fine for this)

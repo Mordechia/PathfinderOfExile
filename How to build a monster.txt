@@ -1,0 +1,37 @@
+How to build a monster:
+
+First choose what sort of category of enemy they will fall under
+
+https://2e.aonprd.com/Rules.aspx?ID=499
+
+If you find a comparable monster at appropriate level that already exists. Make equivalent exchanges of stats, and or special abilities.
+
+If no such creature exists, look for one that can have the elite or weak template applied to it.
+
+If that does not work, find one that does exist but is far outside the level range, figure out where the stats fall under terrible – extreme and use this calculator for figuring out what sort of stats it would have, add or subtract abilities depending on how large of a jump it is.
+
+https://monster.pf2.tools/
+
+How to write up a monster:
+
+If no changes are made this format is sufficient:
+
+Night adder(2) CREATURE 5 Variant emperor cobra 
+
+If minimal changes are made they can be listed like this:
+
+Night adder(2) CREATURE 5 Variant emperor cobra 
+- venom
++ breath weapon fire: 15 ft cone, dc 22 reflex save, 4d4+2 fire, d4 rounds cooldown
+
+If large scale changes are made using monster.pf2 use the text version of the creature on the right hand side to create the creature like this
+
+creature 5 
+n medium animal 
+Perception +18 
+Skills 
+Str +4, Dex +2, Con +4, Int -4, Wis +2, Cha +0 
+AC 19; Fort +12, Ref +12, Will +9 
+HP 78  
+Speed 25 
+Ranged [[A]] stinger +13, Damage 2d6+6 piercing 
