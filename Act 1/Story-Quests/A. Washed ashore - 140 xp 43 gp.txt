@@ -1,0 +1,38 @@
+Washed Ashore
+
+Players will wake up along the twilight strand. Give players chance to introduce characters appearance and to talk to each other. Describe various broken boxes also washed ashore with supplies (Starting equipment 'purchased' by players). Describe shambling dead, wandering the strand, as well as in the distance, some ruins with trails of smoke.
+
+The Twilight Strand Low 1
+
+Drowned(3) CREATURE -1 Variant Zombie Shambler
+
+Tactics: Mindless so attack nearest. Goes for grab after claw, biting if it still has a grabbed enemy. 
+
+Loot: 2 minor potion of healing in a sealed container, 1 longsword and 1 dagger on a dead pirate(to make sure players have a slashing weapon for hillock fight)
+
+5 player adjustment: +1 Drowned +1 minor potion of healing
+
+3 player adjustment: Normal
+
+
+
+Enemy at the gate Moderate 1
+
+Hillock Creature 3 Variant Elite Zombie Brute
+- Fist attack d12+3 instead of d12+7(trying to not kill level 1 players) 
++ When 42 health or lower, Interact (manipulate) to draw greatsword
++ Greatsword attack +13 d12+7 slashing Versatile P
+- Hillock can not kill players due to Massive damage 
+
+Tactics: Hillock moves to and attacks nearest conscious enemy, always uses improved push even if it would be detrimental. If multiple targets equal distance determine target randomly.
+
+Loot: +1 Greatsword (As thanks Nessa will use her skill and some spare materials to transfer to a weapon of the parties choosing should they not have use for a greatsword
+
+
+5 player adjustment: +1 drowned, tactics: drowned and hillock attack different targets to prevent comboing
+
+3 player adjustment: Normal
+
+
+
+
