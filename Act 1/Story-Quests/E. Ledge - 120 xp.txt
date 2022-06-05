@@ -1,0 +1,47 @@
+1. Cannibals on the ledge Low 1
+
+Cannibal (2) Creature 0 (Variant farmer)
+- replace pitchfork with mace ( loses reach, change damage to bludgeoning)
+- pitch bale ability
+- apple
++ firebomb (lesser alchemists fire, 1x per creature, +6 to hit, damage as item)
+
+3 Player party adjustment: 5 xp under budget, add +1 firebomb to a cannibal
+
+5 Player party adjustment: +1 weak cannibal, 5xp over budget
+
+(Alternative option for encounter, depending on feel use 3 weak cannibals base)
+
+2. Kuduku low 1
+
+Kuduku Hazard 2 (Based on dragon pillar)
+
++10 perception (+0 stealth)
+
+disable
+
+DC 20 athletics to push over, DC 20 to remove runes allowing kuduku to cast spells, DC 20 arcana or occultism to overpower kuduku's magics and disable it for 10 minutes.
+
+AC 18 Fort +11 Reflex +3
+
+Hardness 5 HP 24 (BT 12) Immunities object immunities, precision damage, critical hits
+
+Routine
+
+Two actions Electric arc DC 22 D4+4 electric damage
+
+One action intimidate visual
+
+If engaged at greater than 30 feet 
+
+Three actions Charge: (Only describe as charging up)
+
+Unlocks reach spell metamagic
+
+Unlocks Sparks attack range 120 feet, +7 attack d6+4.
+
+Tactics Casts electric arc, then intimidates a random player that hasn't been intimidated yet. If engaged at range greater than 30 feet use charge. Prioritize electric arc over sparks. Always randomly attacks conscious enemies.
+
+3 Player party adjustment: 5xp under budget, no changes
+
+5 Player party adjustment: Add 1 weak cannibal, no firebomb ability

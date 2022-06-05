@@ -1,0 +1,18 @@
+1. The Warden's Quarters SEVERE 1
+
+Brutus Creature 3 (100% custom)
+
+High hp, medium ac, high fort, medium-low reflex, low will
+
+Large Humanoid
+
+20 speed
+
+Moderate-High base attack, agile fists
+
+Special ability, ground slam wave, 3 action, 30 ft cone, basic reflex save  damage to be determined D4 rounds cooldown
+
+Special ability, chain hook, 40 ft range, 2 action athletics vs fort, pull target to adjacent on failure	
+
+
+Tactics: Semi- mindless, Uses ground slam if available and 2+ targets, then goes for attacking nearest target, prefers to use chain hook if would use 2 actions striding, Will not use chain hook two turns in a row.

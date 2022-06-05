@@ -2,22 +2,24 @@ Location: Swampy area, lots of difficult terrain. Multiple Rhoa nests exist here
 
 Encounters
 
-Rhoa Nest Moderate 1 x3
+1-3. Rhoa Nest Moderate 1 x3
 
-Rhoa Scavenger (2) Creature 1 (Probably custom creature or variation of a boar)
+Rhoa Scavenger (2) Creature 1 (Variant weak boar)
+- Ferocity
++Swampwalk: ignore the effects of difficult terrain due to muddy soil or water.
 
 Tactics: Focus whoever disturbed nest or presented something shiny, do not use charge ability 2 turns in a row unless an egg had been broken.
 
 Skill test to avoid the encounter: DC 15, DC 15 for any aid checks. 
 
-1. Stealth, Nature(Command animal), performance : Get a character close to the nest without the rhoa attacking. Failure go to 2.
+1. Stealth, Nature(Command animal), performance : Get a character close to the nest without the rhoa attacking. Success proceed to 2. Failure go to 3.
 2. Thievery, acrobatics, athletics: Success gets magical shell go to 3., failure breaks an egg while doing so, immediately starts combat.
 3. Stealth, Nature(Command animal), performance: Get a character far enough away the rhoas lose interest: Success, gets far enough away. Failure, combat starts
 
 Loot: 1 magical shell, used for getting into the submerged passage. If combat has been avoided 
 
-5 players adjustment: + 1 weak rhoa, makes encounter 10 xp over budget but close enough
+5 players adjustment: + 1 weak rhoa, (15 hp, 2 weak templates applied) makes encounter 10 xp over budget but close enough
 
 3 players adjustment: normal
 
-
+(GM Notes: if defeated 2 encounters in combat, have 3rd set of rhoas flee to prevent too repetitive encounters, award xp as if defeated)
