@@ -1,0 +1,43 @@
+Exiled for Heresy (Templar) 
+(Seer of the dead for attribute and skill increase on pathbuilder)
+
+WIS/CON Religion, Theocracy lore, Pilgrim's token skill feat
+
+
+
+Exiled for Poaching (Ranger)
+(Hunter background)
+
+WIS/DEX Survival skill, Huntsman Lore, Survey Wildlife skill feat
+
+
+
+Exiled for Witchcraft (Witch)
+(Cultist for attribute + skill)
+INT/CHA Occultism skill, Thaumaturgy Lore, Root Magic skill feat
+
+
+
+Exiled for Insurrection (Marauder)
+(Press-ganged for attribute + skill)
+
+STR/CON Athletics skill, Karui Lore, Titan Wrestler skill feat
+
+
+
+Exiled for Murder for Hire(Shadow, might change later)
+(Criminal background for attribute + skill)
+DEX/INT Stealth, Underworld Lore, Terrain stalker(rubble or underbrush)
+
+
+
+Exiled for Accidental Homicide(Duelist, might change later)
+(Gladiator base background)
+
+STR/CHA Performance, Gladiator Lore, Impressive performance skill feat
+
+
+
+Exiled for Murder(Scion)
+(Will do this later, maybe rare tier background?)
+FREE ? Skill, ? Lore, Skill training skill feat
