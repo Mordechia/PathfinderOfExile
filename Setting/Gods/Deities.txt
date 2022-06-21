@@ -1,13 +1,13 @@
 Oriathan gods
 Innocence Sun, Ambition, Creation, Healing
 
-Sin Darkness, Destruction,
+Sin Darkness, Destruction, Void,
 
 
 Sarn Gods
-Solaris – Sun
+Solaris – Sun, 
 
-Lunaris – Star, Moon
+Lunaris - Star, Moon
 
 
 
@@ -15,16 +15,16 @@ Vaal Gods
 
 Ralakesh Delirium, Secrecy, Trickery
 
-Arakaali Trickery
+Arakaali Trickery, Passion, Swarm, 
 
-Yugul Nightmare, Abomination
+Yugul Nightmare, Abomination, Delirium, Knowledge
 
 
 
 Maraketh Gods
-Shakari
+Shakari Queen of the Sands - Pain, Passion, Plague, Swarm Alternate Dust
 
-Garukhan
+Garukhan Queen of the Winds - Air, Ambition, Dust
 
 
 Karui Gods
@@ -33,11 +33,11 @@ Tukohama - Might, Zeal
 
 Hinekora - Undeath, Knowledge, Time, Soul
 
-Kitava - Destruction, Undeath, Indulgence
+Kitava - Destruction, Undeath, Indulgence, Dust Alternate Void
 
 Ngamahu Fire
 
-Ramako Sun, Fire
+Ramako Sun
 
 Tasalio Cold
 
@@ -47,13 +47,13 @@ Valako Lightning, Air
 
 
 Azmerian Gods
-Brine King(Tsoagoth) - Water
+Brine King(Tsoagoth) - Water, Cold, Travel Alternate - Lightning, Air
 
-Ryslatha Nature, Plague
+Ryslatha Nature, Plague, Swarm
 
 
 Ancient Gods
 
-Abberath – Fire, 
+Abberath – Fire, Gluttony, Destruction, Soul
 
 Gruthkul Sorrow, Nature
